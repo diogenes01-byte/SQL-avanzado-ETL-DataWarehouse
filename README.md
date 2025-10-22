@@ -1,1 +1,1 @@
-# Almacenamiento de datos y arquitectura de DataWarehouse
+## Proyectos y recursos orientados al diseño, desarrollo y optimización de procesos de integración y gestión de datos. Incluye implementaciones avanzadas en SQL, flujos ETL eficientes y arquitecturas de Data Warehouse empresariales. Su objetivo es demostrar buenas prácticas en modelado, transformación y almacenamiento de información para la toma de decisiones basada en datos.
